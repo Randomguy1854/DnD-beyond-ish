@@ -1,0 +1,50 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Suez One', serif;   
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header {
+    background-color: red;
+   height: 33px;
+    width: 100%; 
+    padding-top: 33px;
+    padding-bottom: 33px;
+    font-family: 'Eczar', serif;
+}
+
+#leftcolumn {
+    background-color: #04fc76;
+    height: 236px;
+    width: 33%;
+    color: red;
+    float: left;
+}
+a{
+    color: red
+}
+#middlecolumn {
+    height: 236px;
+    width: 34%;
+    float: left;
+}
+
+#rightcolumn {
+    background-color: #5d5d5d;
+    height: 236px;
+    width: 33%;
+    float: left;
+    color: red;
+}
+
+#closer {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+img {
+    width: 100%;
+}
